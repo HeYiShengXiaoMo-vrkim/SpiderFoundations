@@ -1,0 +1,15 @@
+{
+    "username": "18898107764",
+    "password": "wang985858741",
+    "download_dir": "downloads",
+    "headless": false,
+    "max_pages": 2,
+    "max_downloads_per_keyword": 3,
+    "search_filters": {
+        "document_type": ["cjfq", "cdmd"]
+    },
+    "keywords_file": "keywords.txt",
+    "db_config": {
+        "path": "cnki_documents.db"
+    }
+}
